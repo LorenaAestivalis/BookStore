@@ -1,0 +1,19 @@
+Microservicios : Christian Posta : $45.98
+
+Patrones de diseño: Markus Eisele: $72.80
+
+Programación Orientada a Objetos: Richard Warbuton: $36.72
+
+Aprendiendo Java: Ben Evans: $66.81
+
+Aprendiendo Python: David Mertz: $43.27
+
+Big Data con Hadoop: Donald Miner: $39.60
+
+IOS con Swift: Tim Nugent: $24.18
+
+Programación reactiva: Konrad Malawski: $58.70
+
+Programación con C: Joel Falcou: $67.93
+
+Diseño de sistemas: Doug Davis: $55.67
